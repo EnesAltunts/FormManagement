@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormYonetim", "FormYonetim\FormYonetim.csproj", "{C6832644-CD3A-47DB-8167-A731F38AB13A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{74755BD2-EED6-431E-8E9C-876975D7C7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{DFD03133-421E-46E3-837A-69DA009B0BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6832644-CD3A-47DB-8167-A731F38AB13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6832644-CD3A-47DB-8167-A731F38AB13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6832644-CD3A-47DB-8167-A731F38AB13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6832644-CD3A-47DB-8167-A731F38AB13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74755BD2-EED6-431E-8E9C-876975D7C7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74755BD2-EED6-431E-8E9C-876975D7C7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74755BD2-EED6-431E-8E9C-876975D7C7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74755BD2-EED6-431E-8E9C-876975D7C7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD03133-421E-46E3-837A-69DA009B0BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD03133-421E-46E3-837A-69DA009B0BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD03133-421E-46E3-837A-69DA009B0BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD03133-421E-46E3-837A-69DA009B0BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F71B1770-30B7-40CE-8F46-E6A732DA4C2A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\krln_\source\repos\FormYonetim\DataAccess\obj\Debug\net5.0\DataAccess.pdb
